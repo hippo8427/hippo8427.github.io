@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "어서와, 나의 GitHub 블로그!"
