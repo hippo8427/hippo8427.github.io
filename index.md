@@ -3,6 +3,7 @@
 layout: default
 title: "어서와, 나의 GitHub 블로그!"
 ---
+```
 
 처음 만들어보는 중 😎
 
@@ -12,3 +13,4 @@ title: "어서와, 나의 GitHub 블로그!"
 
 ```python
 print("Hello, world!")
+```
