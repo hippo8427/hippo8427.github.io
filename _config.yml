@@ -4,3 +4,4 @@ email: your_email@example.com
 description: 마크다운과 깃허브 블로그 배우기
 url: "https://hippo8427.github.io"
 baseurl: ""
+theme: minima
