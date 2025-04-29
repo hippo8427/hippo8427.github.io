@@ -1,7 +1,7 @@
 ---
 title: "Hippo8427 블로그"
 ---
-<link rel="stylesheet" href="/assets/css/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
 
 # 어서 오세요!
 
