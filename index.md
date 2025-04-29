@@ -1,6 +1,7 @@
 ---
 title: "Hippo8427 블로그"
 ---
+<link rel="stylesheet" href="/assets/css/style.css">
 
 # 어서 오세요!
 
