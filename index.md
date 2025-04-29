@@ -13,8 +13,6 @@ title: "어서와, 나의 GitHub 블로그!"
 ```python
 print("Hello, world!")
 ```
-TIL, TIG, TIA 3종 콤보도 가능해요!
-
 Today I Learned
 오늘 배운 이론
 
