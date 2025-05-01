@@ -4,7 +4,7 @@ email: your_email@example.com
 description: 자바스크립트 배우기
 url: "https://hippo8427.github.io"
 baseurl: ""
-theme: jekyll-theme-slate	
+theme: minima
 
 
 
