@@ -14,7 +14,7 @@ title: "Hippo8427 블로그"
 <details>
 <summary><strong>[week 1] 2025.04.24 - 2025.04.25</strong></summary>
 
-- [2025.04.24(목)](/posts/2025-04-24-title) <br>
+- [2025.04.24(목)](/posts/2025-04-24-title.md) <br>
 - [2025.04.25(금)](/til/2025-04-25)
 - 
 
