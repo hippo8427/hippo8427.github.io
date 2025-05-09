@@ -1,6 +1,6 @@
 ---
 title: "Hippo8427 블로그"
-layout: default
+layout: home
 ---
 
 # 📌 코드잇 스프린트 
