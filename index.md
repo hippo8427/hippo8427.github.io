@@ -34,7 +34,7 @@ javascript를 공부하고 있습니다.
 <br>
 <br>
 
-📌 ## TIL
+## 📌 TIL
 
 <details open>
 <summary><strong>[week 1] 2025.04.24 - 2025.04.25</strong></summary>
