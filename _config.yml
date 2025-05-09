@@ -4,22 +4,5 @@ email: your_email@example.com
 description: 자바스크립트 배우기
 url: "https://hippo8427.github.io"
 baseurl: ""
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-      navigation: main
-      sidebar:
-        position: left
-        nav: "main"
-
-
-
-
+theme: minima
 
