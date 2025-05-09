@@ -13,7 +13,8 @@ defaults:
     values:
       layout: default
       navigation: main
-
+      sidebar:
+        nav: "main"
 
 
 
