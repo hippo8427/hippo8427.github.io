@@ -1,0 +1,11 @@
+main:
+  - title: "소개"
+    url: /about/
+  - title: "기술 스택"
+    url: /stack/
+  - title: "카테고리"
+    children:
+      - title: "리눅스"
+        url: /categories/linux/
+      - title: "개발도구"
+        url: /categories/tools/
