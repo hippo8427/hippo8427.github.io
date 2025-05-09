@@ -1,5 +1,7 @@
 ---
 title: "Hippo8427 블로그"
+layout: default
+
 ---
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
 
