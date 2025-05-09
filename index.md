@@ -14,6 +14,7 @@ layout: home
 
 <details>
 <summary><strong>[week 1] 2025.04.24 - 2025.04.25</strong></summary>
+<br>
 
 - [2025.04.24(목)](/2025/04/24/title.html) <br>
 
