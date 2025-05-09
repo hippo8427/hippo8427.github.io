@@ -1,7 +1,6 @@
 ---
 title: "Hippo8427 블로그"
 sidebar:
-  position: left
   nav: "main"
 
 ---
