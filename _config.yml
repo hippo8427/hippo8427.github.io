@@ -6,3 +6,26 @@ url: "https://hippo8427.github.io"
 baseurl: ""
 theme: minima
 
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      sidebar:
+        nav: "category"
+
+collections:
+  posts:
+    output: true
+
+navigation:
+  category:
+    - title: "홈"
+      url: /
+    - title: "카테고리: 웹 개발"
+      url: /categories/webdev/
+    - title: "카테고리: 자바스크립트"
+      url: /categories/javascript/
+    - title: "카테고리: 알고리즘"
+      url: /categories/algorithm/
