@@ -1,6 +1,6 @@
 ---
 title: "Hippo8427 블로그"
-
+categories: [웹개발, 자바스크립트]
 ---
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
 
