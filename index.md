@@ -39,8 +39,9 @@ javascript를 공부하고 있습니다.
 <details>
 <summary><strong>[week 1] 2025.04.24 - 2025.04.25</strong></summary>
 
-- [2025.04.24(목)](/posts/2025-04-24.md)
+- [2025.04.24(목)](/posts/2025-04-24.title.md)<br>
 - [2025.04.25(금)](/til/2025-04-25)
+- 
 
 </details>
 
