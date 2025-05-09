@@ -12,14 +12,14 @@ layout: home
 
 ## 📅 TIL
 
-<details>
+// <details>
 <summary><strong>[week 1] 2025.04.24 - 2025.04.25</strong></summary>
 <br>
 
 - [2025.04.24(목)](/2025/04/24/title.html) <br>
 
 
-</details>
+// </details>
 
 <details>
 <summary><strong>[week 2] 2025.04.28 - 2025.05.02</strong></summary>
