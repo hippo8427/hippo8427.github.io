@@ -33,10 +33,8 @@ javascript를 공부하고 있습니다.
 ---
 <br>
 <br>
-## 📫 연락처
-<br>
-<br>
-## TIL
+
+📌 ## TIL
 
 <details open>
 <summary><strong>[week 1] 2025.04.24 - 2025.04.25</strong></summary>
@@ -66,6 +64,10 @@ javascript를 공부하고 있습니다.
 - [평가 1](/til/2025-05-09-eval1)
 
 </details>
+
+
+## 📫 연락처
+
 
 - Email: hippo8976@gmail.com
 - GitHub: [@hippo8427](https://github.com/hippo8427)
