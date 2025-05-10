@@ -1,6 +1,7 @@
 ---
 title: "Hippo8427 블로그"
-layout: home
+layout: splash
+
 classes: text-center
 ---
 
