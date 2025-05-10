@@ -1,6 +1,7 @@
 ---
 title: "Hippo8427 블로그"
 layout: home
+classes: text-center
 ---
 
 # 📌 코드잇 스프린트 
