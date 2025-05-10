@@ -41,9 +41,10 @@ classes: text-center
 
 </details>
 
-                   <!--
+                  
 <br>
 <br>
+ <!--
 ## 📝 최근 포스트
 
 <ul>
@@ -54,7 +55,8 @@ classes: text-center
     </li>
   {% endfor %}
 </ul>
-                   -->
+-->
+                   
 ---
 <br>
 <br>
