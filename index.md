@@ -29,5 +29,5 @@ classes: text-center
 ## 📫 연락처
 
 
-- Email: hippo8976@gmail.com
-- GitHub: [@hippo8427](https://github.com/hippo8427)
+ Email: hippo8976@gmail.com
+ GitHub: [@hippo8427](https://github.com/hippo8427)
