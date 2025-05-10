@@ -1,7 +1,6 @@
 ---
 title: "🔥 코드잇 스프린트"
-layout: single
-classes: text-center
+layout: post
 ---
 
 <br>
