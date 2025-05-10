@@ -11,4 +11,4 @@ plugins:
 collections:
   TIL:
     output: true
-    permalink: /til/:name/
+    permalink: /til/:name.html
