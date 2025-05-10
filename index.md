@@ -16,7 +16,7 @@ classes: text-center
 
 <br>
 
- <a href="/2025/04/24/WP.html"><strong>📅 WP</strong></a>
+ <a href="/2025/04/24/WP.html"><strong>📅 Weekly Paper</strong></a>
 
 
 
