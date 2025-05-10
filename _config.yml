@@ -11,10 +11,10 @@ plugins:
 collections:
   TIL:
     output: true
-    permalink: /til/:name/
+    permalink: /TIL/:name/
   WIL:
     output: true
-    permalink: /wil/:name/
+    permalink: /TIL/:name/
   WP:
     output: true
-    permalink: /wp/:name/
+    permalink: /WP/:name/
