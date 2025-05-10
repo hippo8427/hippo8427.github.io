@@ -9,12 +9,12 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 collections:
-  til:
+  TIL:
     output: true
-    permalink: /til/:name/
-  wil:
+    permalink: /TIL/:name/
+  WIL:
     output: true
-    permalink: /wil/:name/
-  wp:
+    permalink: /WIL/:name/
+  WP:
     output: true
-    permalink: /wp/:name/
+    permalink: /WP/:name/
