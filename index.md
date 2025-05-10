@@ -11,16 +11,12 @@ classes: text-center
  <a href="/2025/04/24/TIL.html"><strong>📘 TIL</strong></a>
  
 <br>
-<br>
-<br>
 
  <a href="/2025/04/24/WIL.html"><strong>📗 WIL</strong></a>
 
 <br>
-<br>
-<br>
 
- <a href="/2025/04/24/WP.html"><strong>📅 WP</strong></a>
+ <a href="/2025/04/24/WP.html"><strong>📅 Weekly Paper</strong></a>
 
 
 
