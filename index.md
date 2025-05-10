@@ -1,12 +1,9 @@
 ---
-title: "Hippo8427 블로그"
+title: "📌 코드잇 스프린트"
 layout: single
 classes: text-center
 ---
 
-# 📌 코드잇 스프린트 
-
----
 
 <br>
 <br>
@@ -44,7 +41,7 @@ classes: text-center
                   
 <br>
 <br>
- <!--
+<!--
 ## 📝 최근 포스트
 
 <ul>
