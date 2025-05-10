@@ -16,7 +16,7 @@ classes: text-center
 <details>
 <summary><strong>[week 1] 2025.04.24 - 2025.04.25</strong></summary>
 
-- <a href="/2025/04/24/title.html">2025.04.24(목)</a><br>
+- <a href="/2025-04-24-til-w1-basic.html">2025.04.24(목)</a><br>
 
 </details>
 
