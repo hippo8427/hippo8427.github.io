@@ -8,7 +8,7 @@ classes: text-center
 <br>
 <br>
 
- <a href="/2025/04/24/TIL.html"><strong>📅 TIL</strong></a>
+ <a href="/2025/04/24/til.html"><strong>📅 TIL</strong></a>
 
 
 
