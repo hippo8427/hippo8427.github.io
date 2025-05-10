@@ -8,3 +8,13 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+collections:
+  til:
+    output: true
+    permalink: /til/:name/
+  wil:
+    output: true
+    permalink: /wil/:name/
+  wp:
+    output: true
+    permalink: /wp/:name/
