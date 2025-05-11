@@ -51,7 +51,7 @@ layout: single
 <details>
   <summary><strong style="font-size: 1.2em;">🔸 ls 와 cd 의 세부 명령어</strong></summary>
 
-  <div style="background: #f0f0f0; padding: 1em; border-left: 4px solid gray;" markdown="1">
+  <div style="background: #f0f0f0; padding: 1em; " markdown="1">
 
 
 ## 📁 `ls` 명령어 주요 옵션 요약
