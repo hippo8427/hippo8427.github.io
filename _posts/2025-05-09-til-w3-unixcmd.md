@@ -49,7 +49,7 @@ layout: single
 <br>
 
 <details>
-  <summary><strong>🔸 ls 와 cd 의 세부 명령어</strong></summary>
+  <summary><strong style="font-size: 1.3em;">🔸 ls 와 cd 의 세부 명령어</strong></summary>
 
   <div markdown="1">
 
