@@ -47,7 +47,7 @@ layout: single
 <br>
 
 <details>
-  <summary><h3><strong>🔸 ls 와 cd 의 세부 명령어</strong></h3></summary>
+  <summary><strong>🔸 ls 와 cd 의 세부 명령어</strong></summary>
 
 ## 📁 `ls` 명령어 주요 옵션 요약
 
