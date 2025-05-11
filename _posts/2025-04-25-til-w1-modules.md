@@ -32,7 +32,7 @@ layout: single
 
 ---
 
-### 🔍 CommonJS (CJS) – Node.js에서 주로 사용
+### 🔍 CommonJS (CJS) 
 
 ```js
 
@@ -48,3 +48,18 @@ console.log(math.add(2, 3));
 * **math.js**에서 add 함수를 **module.exports** 로 내보내고, <br>
   **main.js**에서 **require()** 를 통해 불러와 사용하는 구조
 
+---
+
+### 🔍 ES Modules 문법
+
+```js
+
+// math.js
+export const add = (a, b) => a + b;
+js
+
+// main.js
+import { add } from './math.js';
+console.log(add(2, 3));
+
+```
