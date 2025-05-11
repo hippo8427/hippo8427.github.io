@@ -52,8 +52,6 @@ layout: single
   <summary><strong style="font-size: 1.3em;">🔸 ls 와 cd 의 세부 명령어</strong></summary>
 
   <div markdown="1">
-  
-<br>
 
 ## 📁 `ls` 명령어 주요 옵션 요약
 
