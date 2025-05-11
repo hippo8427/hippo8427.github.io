@@ -73,7 +73,7 @@ console.log(add(2, 3));
 ```
 - **math.js**에서 add 함수를 **export**로 내보내고, <br>
   **main.js**에서 **import { add }** 를 사용해 해당 함수를 가져온다.
-- 브라우저와 Node.js 모두에서 사용 가능하며, 문법 자체가 비동기적인 현대 표준 모듈 시스템이다.
+- 브라우저와 Node.js 모두에서 사용 가능하며, 문법 자체가 **비동기적인** 현대 표준 모듈 시스템이다.
 -  vscode 에서는 packge.json 에 "type": "module" 을 추가해줘야 한다.
 
 
