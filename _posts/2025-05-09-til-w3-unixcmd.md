@@ -19,7 +19,10 @@ layout: single
 | `mv`           | 파일 이동 또는 이름 변경           | `mv old.txt new.txt` → `old.txt`를 `new.txt`로 이름 변경 |
 | `cp`           | 파일 복사                         | `cp file1.txt file2.txt` → `file1.txt`를 `file2.txt`로 복사 |
 | `rm`           | 파일 삭제                         | `rm memo.txt` → `memo.txt` 파일 삭제 |
-| `cat`, `less`  | 파일 내용 보기                    | `cat file.txt` → 한 번에 출력<br>`less file.txt` → 페이지 단위 출력 |
+| `cat`          | 파일 전체 내용 출력               | `cat file.txt` → 파일의 전체 내용 출력 |
+| `less`         | 파일을 페이지 단위로 보기         | `less file.txt` → 방향키로 스크롤하며 파일 보기 |
+| `head`         | 파일의 앞부분 몇 줄 출력          | `head file.txt` → 앞 10줄 보기<br>`head -n 5 file.txt` → 앞 5줄 보기 |
+| `tail`         | 파일의 뒷부분 몇 줄 출력          | `tail file.txt` → 끝 10줄 보기<br>`tail -n 20 file.txt` → 끝 20줄 보기 |
 | `vi`           | 텍스트 편집기                     | `vi note.txt` → `note.txt`를 편집 |
 | `man`          | 매뉴얼 보기                       | `man ls` → `ls` 명령 설명서 보기 |
 | `sudo`         | 관리자 권한 실행                  | `sudo apt install mc` → `mc` 설치 (관리자 권한 필요) |
