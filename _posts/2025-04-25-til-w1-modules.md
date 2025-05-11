@@ -3,6 +3,7 @@ title: 모듈 시스템
 date: 2025-04-25
 layout: single
 ---
+<h1 style="text-align: center;"></h1>
 
 
 ## 📌 모듈이란?
