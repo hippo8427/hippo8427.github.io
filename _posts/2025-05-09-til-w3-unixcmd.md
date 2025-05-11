@@ -75,8 +75,6 @@ layout: single
 | `|`  | FIFO (named pipe)            | `mypipe|`             |
 | _(없음)_ | 일반 파일                | `myfile`              |
 
-<br>
-
 ---
 
 <br>
