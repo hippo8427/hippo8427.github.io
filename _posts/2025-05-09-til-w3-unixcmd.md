@@ -6,6 +6,8 @@ layout: single
 
 <h1 style="text-align: center;"></h1>
 
+<details>
+  <summary><strong>🔸 ls 와 cd 의 세부 명령어</strong></summary>
 
 ## 📍 Unix 기반 운영체제에서 쓰는 커맨드 요약
 
@@ -44,6 +46,7 @@ layout: single
 | `chmod`        | 권한 변경                         | `chmod +x s.sh` → 실행 가능하게 설정<br>`chmod 644 file` → 읽기/쓰기 권한 설정 |
 | `chown`        | 소유자 변경                       | `chown user:group file` → 소유자 변경 |
 
+</details>
 <br>
 
 <details>
