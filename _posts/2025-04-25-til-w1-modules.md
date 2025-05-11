@@ -25,6 +25,7 @@ layout: single
 ## 1️⃣ CommonJS (CJS) – Node.js에서 주로 사용
 
 ```js
+
 // math.js
 const add = (a, b) => a + b;
 module.exports = { add };
@@ -32,3 +33,5 @@ module.exports = { add };
 // main.js
 const math = require('./math');
 console.log(math.add(2, 3));
+
+```
