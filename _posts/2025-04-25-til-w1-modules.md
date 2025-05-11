@@ -76,6 +76,8 @@ console.log(add(2, 3));
 - 브라우저와 Node.js 모두에서 사용 가능하며, 문법 자체가 **비동기적인** 현대 표준 모듈 시스템이다.
 -  vscode 에서는 packge.json 에 "type": "module" 을 추가해줘야 한다.
 
+---
+
 <details>
   <summary><strong style="font-size: 1.2em;">🔸 모듈의 동기 vs 비동기 차이 (CommonJS vs ES Modules)</strong></summary>
 
