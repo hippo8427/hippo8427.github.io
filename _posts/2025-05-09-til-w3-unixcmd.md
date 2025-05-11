@@ -4,7 +4,6 @@ date: 2025-05-09
 layout: single
 ---
 
-<h1 style="text-align: center;"></h1>
 
 # 📌 Unix 기반 운영체제에서 쓰는 커맨드 요약
 
