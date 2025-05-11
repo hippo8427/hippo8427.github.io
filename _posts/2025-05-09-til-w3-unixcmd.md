@@ -48,6 +48,11 @@ layout: single
 
 <br>
 
+<details>
+  <summary><strong>🔸 ls 와 cd 의 세부 명령어</strong></summary>
+
+  <div markdown="1">
+
 
 ## 📁 `ls` 명령어 주요 옵션 요약
 
@@ -69,6 +74,9 @@ layout: single
 | `=`  | 소켓 (socket)                | `mysocket=`           |
 | `|`  | FIFO (named pipe)            | `mypipe|`             |
 | _(없음)_ | 일반 파일                | `myfile`              |
+
+ </div>
+</details>
 
 <br>
 
