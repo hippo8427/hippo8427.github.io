@@ -45,7 +45,7 @@ const math = require('./math');
 console.log(math.add(2, 3));
 
 ```
-* **math.js**에서 add 함수를 **module.exports** 로 내보내고, <br>
+- **math.js**에서 add 함수를 **module.exports** 로 내보내고, <br>
   **main.js**에서 **require()** 를 통해 불러와 사용하는 구조
 
 ---
@@ -56,10 +56,15 @@ console.log(math.add(2, 3));
 
 // math.js
 export const add = (a, b) => a + b;
-js
+
 
 // main.js
 import { add } from './math.js';
 console.log(add(2, 3));
 
 ```
+- **math.js**에서 add 함수를 **export**로 내보내고, <br>
+  **main.js**에서 **import { add }** 를 사용해 해당 함수를 가져온다.
+
+
+
