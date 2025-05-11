@@ -52,7 +52,8 @@ layout: single
   <summary><strong style="font-size: 1.3em;">🔸 ls 와 cd 의 세부 명령어</strong></summary>
 
   <div markdown="1">
-
+  
+<br>
 
 ## 📁 `ls` 명령어 주요 옵션 요약
 
@@ -75,9 +76,6 @@ layout: single
 | `|`  | FIFO (named pipe)            | `mypipe|`             |
 | _(없음)_ | 일반 파일                | `myfile`              |
 
- </div>
-</details>
-
 <br>
 
 ---
@@ -96,6 +94,7 @@ layout: single
 | `cd .`         | 현재 디렉토리 유지       | 경로상 아무 변화 없음 (명시적으로 현재 위치를 의미) |
 | `cd -`         | 이전 디렉토리로 이동     | 직전에 있었던 디렉토리로 다시 이동 |
 
+ </div>
 </details>
 
 <br>
