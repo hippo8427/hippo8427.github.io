@@ -50,7 +50,7 @@ console.log(math.add(2, 3));
 
 ```
 - **math.js**에서 add 함수를 **module.exports** 로 내보내고, <br>
-  **main.js**에서 **require()** 를 통해 불러와 사용하는 구조 <br>
+  **main.js**에서 **require()** 를 통해 불러와 사용하는 구조 
 - 모듈을 **런타임 시점**에 **동기적**으로 불러오며, 코드가 실행될 때 바로 로딩된다.
 - 브라우저 환경에서는 CommonJS가 기본적으로 지원되지 않으며, Node.js 전용이다.
 
@@ -72,7 +72,7 @@ console.log(add(2, 3));
 
 ```
 - **math.js**에서 add 함수를 **export**로 내보내고, <br>
-  **main.js**에서 **import { add }** 를 사용해 해당 함수를 가져온다. <br>
+  **main.js**에서 **import { add }** 를 사용해 해당 함수를 가져온다. 
 - 브라우저와 Node.js 모두에서 사용 가능하며, 문법 자체가 **비동기적인** 현대 표준 모듈 시스템이다.
 -  vscode 에서는 packge.json 에 "type": "module" 을 추가해줘야 한다.
 
