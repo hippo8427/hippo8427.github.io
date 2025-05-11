@@ -21,6 +21,10 @@ layout: single
 - 필요한 기능만 골라 불러올 수 있어서 **성능 최적화**에도 도움이 됩니다.
 
 ---
+
+<br>
+<br>
+
 ### 📁 자주 사용되는 모듈의 종류는 크게 두가지로 나뉜다.
 
 | 항목         | CommonJS (`require`)         | ES Modules (`import`)      |
@@ -47,6 +51,10 @@ console.log(math.add(2, 3));
 ```
 - **math.js**에서 add 함수를 **module.exports** 로 내보내고, <br>
   **main.js**에서 **require()** 를 통해 불러와 사용하는 구조
+- 모듈을 **런타임 시점**에 **동기적**으로 불러오며, 코드가 실행될 때 바로 로딩된다.
+- 브라우저 환경에서는 CommonJS가 기본적으로 지원되지 않으며, Node.js 전용입니다.
+
+  
 
 ---
 
