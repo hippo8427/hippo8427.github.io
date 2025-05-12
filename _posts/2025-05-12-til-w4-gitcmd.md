@@ -49,7 +49,8 @@ layout: single
 | `git checkout HEAD -- main.py`  | 파일 복원 (되돌리기)       | 예전 방식의 파일 복원 (`restore`로 대체 가능)                             |
 
 
-
+<br>
+<br>
 
 
 ## 📁 브랜치 관련 추가 명령어 
@@ -61,6 +62,7 @@ layout: single
 | `git branch -d name`     | 병합된 브랜치 삭제       |
 | `git branch -D name`     | 강제 삭제 (병합되지 않아도) |
 
+<br>
 
 
 ## 📂 로그 관련 추가 명령어 
