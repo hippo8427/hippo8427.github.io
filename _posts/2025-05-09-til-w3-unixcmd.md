@@ -22,14 +22,16 @@ layout: single
 | `mv`           | 파일 이동 또는 이름 변경           | `mv old.txt new.txt` → `old.txt`를 `new.txt`로 이름 변경 |
 | `cp`           | 파일 복사                         | `cp file1.txt file2.txt` → `file1.txt`를 `file2.txt`로 복사 |
 | `rm`           | 파일 삭제                         | `rm memo.txt` → `memo.txt` 파일 삭제<br>`rmdir` → 빈디렉토리 삭제 |
-| `rm -r`           | 디렉토리 내부까지 재귀 삭제        | `rm -r old_folder` → `old_folder` 폴더와 하위 항목 모두 삭제 |
-| `rm -f`           | 강제 삭제 (확인 생략, 에러 무시)   | `rm -f temp.txt` → 확인 없이 `temp.txt` 삭제 (존재하지 않아도 에러 없음) |
+| `rm -r`        | 디렉토리 내부까지 재귀 삭제        | `rm -r old_folder` → `old_folder` 폴더와 하위 항목 모두 삭제 |
+| `rm -f`        | 강제 삭제 (확인 생략, 에러 무시)   | `rm -f temp.txt` → 확인 없이 `temp.txt` 삭제 (존재하지 않아도 에러 없음) |
 | `rm -rf`       | 폴더 및 내용 전체 강제 삭제        | `rm -rf backup/` → `backup` 폴더와 그 안 모든 파일을 확인 없이 강제 삭제 |
 | `cat`          | 파일 전체 내용 출력               | `cat file.txt` → 파일의 전체 내용 출력 |
 | `less`         | 파일을 페이지 단위로 보기         | `less file.txt` → 방향키로 스크롤하며 파일 보기 |
 | `head`         | 파일의 앞부분 몇 줄 출력          | `head file.txt` → 앞 10줄 보기<br>`head -n 5 file.txt` → 앞 5줄 보기 |
 | `tail`         | 파일의 뒷부분 몇 줄 출력          | `tail file.txt` → 끝 10줄 보기<br>`tail -n 20 file.txt` → 끝 20줄 보기 |
 | `vi`           | 텍스트 편집기                     | `vi note.txt` → `note.txt`를 편집 |
+| `nano`         | 터미널 기반 텍스트 편집기         | `nano memo.txt` → `memo.txt`를 열어 편집, `Ctrl + O` 저장, `Ctrl + X` 종료 |
+| `echo`         | 문자열 출력 또는 파일에 쓰기       | `echo "hello" > a.txt` → `a.txt`에 `"hello"` 저장 (새 파일 생성도 가능)<br>`>`는 덮어쓰기 `>>`는 추가 |
 | `man`          | 매뉴얼 보기                       | `man ls` → `ls` 명령 설명서 보기 |
 | `sudo`         | 관리자 권한 실행                  | `sudo apt install mc` → `mc` 설치 (관리자 권한 필요) |
 | `grep`         | 문자열 검색                       | `grep "main" file.txt` → `file.txt`에서 `main` 찾기 |
