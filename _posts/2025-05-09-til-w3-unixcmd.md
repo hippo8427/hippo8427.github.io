@@ -1,5 +1,5 @@
 ---
-title: 유닉스 커맨드
+title: Unix 커맨드
 date: 2025-05-09
 layout: single
 ---
