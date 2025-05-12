@@ -41,7 +41,7 @@ layout: single
 | `git archive`     | 프로젝트 압축 아카이브 생성    | `git archive --format=zip HEAD > project.zip`                                |
 | `git shortlog`    | 커밋 통계 보기           | `git shortlog -sne` → 커밋 수와 작성자 통계                                           |
 | `git switch`                    | 브랜치 전환             | `git switch name` → `name` 브랜치로 이동                          |
-| `git switch -c`                 | 브랜치 생성 + 전환        | `git switch -c feature` → `feature` 브랜치 생성 및 전환             |
+| `git switch -c feature`                 | 브랜치 생성 + 전환        | `git switch -c feature` → `feature` 브랜치 생성 및 전환             |
 | `git restore`                   | 파일 복원 (되돌리기)       | `git restore main.py` → 해당 파일을 마지막 커밋 상태로 복원                |
 | `git restore --staged file.txt` | 스테이징 취소 (인덱스에서 제거) | `git restore --staged file.txt` → 스테이지에서만 제거 (워킹 디렉토리는 그대로) |
 | `git checkout name`             | 브랜치 전환             | 예전 방식의 브랜치 전환 명령어 (`switch`로 대체 권장)                         |
