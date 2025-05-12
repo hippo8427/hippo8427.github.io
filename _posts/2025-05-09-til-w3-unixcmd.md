@@ -21,7 +21,7 @@ layout: single
 | `touch`        | 빈 파일 생성                      | `touch memo.txt` → `memo.txt`라는 빈 파일 생성 |
 | `mv`           | 파일 이동 또는 이름 변경           | `mv old.txt new.txt` → `old.txt`를 `new.txt`로 이름 변경 |
 | `cp`           | 파일 복사                         | `cp file1.txt file2.txt` → `file1.txt`를 `file2.txt`로 복사 |
-| `rm`           | 파일 삭제                         | `rm memo.txt` → `memo.txt` 파일 삭제<br>`redir` → 디렉토리 삭제 |
+| `rm`           | 파일 삭제                         | `rm memo.txt` → `memo.txt` 파일 삭제<br>`rmdir` → 디렉토리 삭제 |
 | `rm -r`           | 디렉토리 내부까지 재귀 삭제        | `rm -r old_folder` → `old_folder` 폴더와 하위 항목 모두 삭제 |
 | `rm -f`           | 강제 삭제 (확인 생략, 에러 무시)   | `rm -f temp.txt` → 확인 없이 `temp.txt` 삭제 (존재하지 않아도 에러 없음) |
 | `rm -rf`       | 폴더 및 내용 전체 강제 삭제        | `rm -rf backup/` → `backup` 폴더와 그 안 모든 파일을 확인 없이 강제 삭제 |
