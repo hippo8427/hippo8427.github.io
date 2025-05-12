@@ -16,12 +16,15 @@ layout: single
 |----------------|----------------------------------|-------------|
 | `pwd`          | 현재 디렉토리 위치 출력           | `pwd` → 현재 위치 확인 |
 | `ls`           | 디렉토리 목록 보기                | `ls -al` → 숨김 포함 목록 보기<br>`ll` → `ls -alF`의 alias |
-| `cd`           | 디렉토리 이동                     | `cd ~/my_project` → 홈 안의 프로젝트 폴더로 이동<br>' |
+| `cd`           | 디렉토리 이동                     | `cd ~/my_project` → 홈 안의 프로젝트 폴더로 이동 |
 | `mkdir`        | 디렉토리 생성                     | `mkdir new_folder` → `new_folder`라는 새 폴더 생성 |
 | `touch`        | 빈 파일 생성                      | `touch memo.txt` → `memo.txt`라는 빈 파일 생성 |
 | `mv`           | 파일 이동 또는 이름 변경           | `mv old.txt new.txt` → `old.txt`를 `new.txt`로 이름 변경 |
 | `cp`           | 파일 복사                         | `cp file1.txt file2.txt` → `file1.txt`를 `file2.txt`로 복사 |
 | `rm`           | 파일 삭제                         | `rm memo.txt` → `memo.txt` 파일 삭제 |
+| `rm -r`           | 디렉토리 내부까지 재귀 삭제        | `rm -r old_folder` → `old_folder` 폴더와 하위 항목 모두 삭제 |
+| `rm -f`           | 강제 삭제 (확인 생략, 에러 무시)   | `rm -f temp.txt` → 확인 없이 `temp.txt` 삭제 (존재하지 않아도 에러 없음) |
+| `rm -rf`       | 폴더 및 내용 전체 강제 삭제        | `rm -rf backup/` → `backup` 폴더와 그 안 모든 파일을 확인 없이 강제 삭제 |
 | `cat`          | 파일 전체 내용 출력               | `cat file.txt` → 파일의 전체 내용 출력 |
 | `less`         | 파일을 페이지 단위로 보기         | `less file.txt` → 방향키로 스크롤하며 파일 보기 |
 | `head`         | 파일의 앞부분 몇 줄 출력          | `head file.txt` → 앞 10줄 보기<br>`head -n 5 file.txt` → 앞 5줄 보기 |
