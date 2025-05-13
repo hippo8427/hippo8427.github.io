@@ -54,21 +54,35 @@ layout: single
 
 ## 📁 브랜치 관련 추가 명령어 
 
-| 명령어                      | 설명               |
-| ------------------------ | ---------------- |
-| `git branch`             | 브랜치 목록 보기        |
-| `git branch new-feature` | 새로운 브랜치 생성       |
-| `git branch -d name`     | 병합된 브랜치 삭제       |
-| `git branch -D name`     | 강제 삭제 (병합되지 않아도) |
+| 명령어                      | 설명                           |
+| ------------------------ | ---------------------------- |
+| `git branch`             | 브랜치 목록 보기                    |
+| `git branch new-feature` | 새로운 브랜치 생성                   |
+| `git branch -d name`     | 병합된 브랜치 삭제                   |
+| `git branch -D name`     | 강제 삭제 (병합되지 않아도)             |
+| `git branch -a`          | 로컬 + 원격 브랜치 전체 목록 보기         |
+| `git branch -r`          | 원격 브랜치 목록만 보기                |
+| `git branch --merged`    | 현재 브랜치에 병합된 브랜치 목록 보기        |
+| `git branch --no-merged` | 현재 브랜치에 아직 병합되지 않은 브랜치 보기    |
+| `git branch -m old new`  | 브랜치 이름 변경                    |
+| `git branch -M old new`  | 브랜치 이름 강제 변경 (기존 이름 있어도 덮어씀) |
+
 
 <br>
 
 
 ## 📂 로그 관련 추가 명령어 
 
-| 명령어                         | 설명           |
-| --------------------------- | ------------ |
-| `git log`                   | 커밋 내역 전체 출력  |
-| `git log --oneline`         | 한 줄 요약 형식 출력 |
-| `git log --graph --oneline` | 브랜치 그래프 출력   |
+| 명령어                               | 설명                           |
+| --------------------------------- | ---------------------------- |
+| `git log`                         | 커밋 내역 전체 출력                  |
+| `git log --oneline`               | 한 줄 요약 형식 출력                 |
+| `git log --graph --oneline`       | 브랜치 그래프 출력                   |
+| `git log -p`                      | 각 커밋의 변경(diff) 내용 출력         |
+| `git log --stat`                  | 변경된 파일 목록과 라인 수 통계 출력        |
+| `git log --pretty=format:"%h %s"` | 짧은 해시와 커밋 메시지 출력 (형식 커스터마이징) |
+| `git log <파일명>`                   | 특정 파일의 커밋 이력만 출력             |
+| `git log -n 5`                    | 최근 커밋 5개만 출력                 |
+| `git log --author="이름"`           | 특정 작성자의 커밋만 출력               |
+| `git log --since="1.week"`        | 최근 일주일 내의 커밋만 출력             |
 
