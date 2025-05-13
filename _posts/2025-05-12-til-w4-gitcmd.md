@@ -26,7 +26,7 @@ layout: single
 | `git revert`      | 커밋 되돌리기 (새 커밋 생성)  | `git revert abc123` → 해당 커밋을 되돌리는 새 커밋 생성                                    |
 | `git branch`      | 브랜치 목록 / 생성        | `git branch` → 브랜치 목록<br>`git branch new-feature` → 새 브랜치 생성                 |
 | `git merge`       | 브랜치 병합             | `git merge dev` → 현재 브랜치에 dev 브랜치 병합                                         |
-| `git rebase`      | 브랜치 재정렬 (히스토리 정리)  | `git rebase main` → main 기준으로 커밋 재정렬<br>(현재 브런치에 main의 커밋 히스토리를 가져와 재정렬)    |
+| `git rebase`      | 브랜치 재정렬 (히스토리 정리)  | `git rebase main` → 현재 브런치에 main의 커밋 히스토리를 가져와 재정렬   |
 | `git cherry-pick` | 커밋 선택 적용           | `git cherry-pick abc123` → 선택한 커밋을 현재 브랜치에 적용                                |
 | `git pull`        | 원격 저장소에서 가져오기 + 병합 | `git pull origin main` → main 브랜치 가져오기                                       |
 | `git push`        | 변경사항 푸시 (업로드)      | `git push origin main` → 원격 main 브랜치로 푸시                                     |
