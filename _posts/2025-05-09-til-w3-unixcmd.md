@@ -47,7 +47,7 @@ layout: single
 | `kill`         | 프로세스 종료                     | `kill 1234` → PID 1234 종료<br>`kill -9 1234` → 강제 종료 |
 | `tar`          | 압축/압축 해제 (.tar.gz 등)        | `tar -czvf a.tar.gz dir/` → 압축<br>`tar -xzvf a.tar.gz` → 해제 |
 | `zip`, `unzip` | zip 압축/해제                     | `zip a.zip file` → 압축<br>`unzip a.zip` → 해제 |
-| `chmod`        | 권한 변경                         | `chmod +x s.sh` → 실행 가능하게 설정<br>`chmod 644 file` → 읽기/쓰기 권한 설정 |
+| `chmod`        | 권한 변경                         | `chmod -R u+rwX 폴더` 재귀적으로 읽기/쓰기/실행 권한 설정 |
 | `chown`        | 소유자 변경                       | `chown user:group file` → 소유자 변경 |
 
 <br>
