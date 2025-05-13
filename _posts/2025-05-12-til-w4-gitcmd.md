@@ -1,10 +1,8 @@
 ---
-title: 📌 Git 커맨드
+title: Git 커맨드
 date: 2025-05-12
 layout: single
 ---
-
-<br>
 
 # 📌 Git 커맨드 
 
