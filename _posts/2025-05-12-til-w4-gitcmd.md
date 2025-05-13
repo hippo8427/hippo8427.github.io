@@ -22,7 +22,7 @@ layout: single
 | `git log`         | 커밋 로그 확인           | `git log` → 전체 커밋 기록 보기<br>`git log --oneline` → 간단한 커밋 내역                   |
 | `git diff`        | 변경 사항 비교           | `git diff` → 워킹 디렉토리와 스테이지 비교                                                |
 | `git reflog`       | 브랜치/HEAD 이동 기록 확인    | `git reflog` → 브랜치 이동, 리베이스, 리셋 등 HEAD 변경 이력 확인  |
-| `git reset`       | 스테이지 또는 커밋 초기화     | `git reset HEAD file.txt` → 스테이지 초기화<br>`git reset --hard HEAD~1` → 커밋 자체 제거 |
+| `git reset`       | 스테이지 또는 커밋 초기화     |`git reset --soft` → 커밋상태만 취소<br>`git reset` → 스테이지까지 초기화<br>`git reset --hard HEAD~1` → 내용까지 전부 제거 |
 | `git revert`      | 커밋 되돌리기 (새 커밋 생성)  | `git revert abc123` → 해당 커밋을 되돌리는 새 커밋 생성                                    |
 | `git branch`      | 브랜치 목록 / 생성        | `git branch` → 브랜치 목록<br>`git branch new-feature` → 새 브랜치 생성                 |
 | `git merge`       | 브랜치 병합             | `git merge dev` → 현재 브랜치에 dev 브랜치 병합                                         |
