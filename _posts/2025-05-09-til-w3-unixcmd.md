@@ -17,7 +17,7 @@ layout: single
 | `pwd`          | 현재 디렉토리 위치 출력           | `pwd` → 현재 위치 확인 |
 | `ls`           | 디렉토리 목록 보기                | `ls -al` → 숨김 포함 목록 보기<br>`ll` → `ls -alF`의 alias |
 | `cd`           | 디렉토리 이동                     | `cd ~/my_project` → 홈 안의 프로젝트 폴더로 이동 |
-| `mkdir`        | 디렉토리 생성                     | `mkdir new_folder` → `new_folder`라는 새 폴더 생성 |
+| `mkdir`        | 디렉토리 생성                     | `mkdir new_folder` → `new_folder`라는 새 폴더 생성<br> 'mkdir -p` → 경로에 있는 폴더까지 자동생성 |
 | `touch`        | 빈 파일 생성                      | `touch memo.txt` → `memo.txt`라는 빈 파일 생성 |
 | `mv`           | 파일 이동 또는 이름 변경           | `mv old.txt new.txt` → `old.txt`를 `new.txt`로 이름 변경 |
 | `cp`           | 파일 복사                         | `cp file1.txt file2.txt` → `file1.txt`를 `file2.txt`로 복사 |
