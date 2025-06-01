@@ -9,10 +9,12 @@ classes: text-center
 <br>
 
  <a href="/2025/04/24/TIL.html"><strong>📘 TIL</strong></a>
- 
+
+<!--
 <br>
 
  <a href="/2025/04/24/WIL.html"><strong>📗 WIL</strong></a>
+-->
 
 <br>
 
