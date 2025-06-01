@@ -28,7 +28,7 @@ classes: text-center
 ---
 <br>
 <br>
-## 📫 연락처
+## 📫 Contact 
 
 
  Email: hippo8976@gmail.com
