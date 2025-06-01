@@ -1,5 +1,5 @@
 ---
-title: "🔥 Codeit Sprint"
+title: "🔥 CODEIT SPRINT"
 layout: single
 classes: text-center
 ---
