@@ -20,6 +20,10 @@ classes: text-center
 
  <a href="/2025/04/24/WP.html"><strong>📅 Weekly Paper</strong></a>
 
+<br>
+
+ <a href="/2025/04/24/TP.html"><strong>📚 Team Project</strong></a>
+
 
 
 
